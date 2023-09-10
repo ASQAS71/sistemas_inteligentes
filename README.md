@@ -4,6 +4,8 @@
 
 Currículo: https://www2.unifor.br/controle_pesquisa/pesquisarprofessor.do?actionParameter=prepareUpdate&p_tp_ambiente=2&p_tp_chamada=1&p_tp_apresentacao=1&cdPesquisador=028947363
 
+## Referências: Estão nos slides da primeira aula
+
 ## Conteúdos
 
 ### Revisões
